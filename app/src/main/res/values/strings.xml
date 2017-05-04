@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Create a Floating Context Menu</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_share">Share</string>
+    <string name="title_help">Help</string>
+    <string-array name="android_version">
+        <item>aaa</item>
+        <item>bbb</item>
+        <item>ccc</item>
+        <item>eee</item>
+        <item>fff</item>
+        <item>ggg</item>
+        <item>hhh</item>
+        <item>jjj</item>
+    </string-array>
+</resources>
